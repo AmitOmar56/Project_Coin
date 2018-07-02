@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "355949604677",
+    "firebase_url": "https://farebiz-games.firebaseio.com",
+    "project_id": "farebiz-games",
+    "storage_bucket": "farebiz-games.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355949604677:android:b61103cd9b8e97a4",
+        "android_client_info": {
+          "package_name": "com.lifeplaytrip.luckycoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355949604677-17e43jpufm6n4tf6m9brlilfn9qn76d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lifeplaytrip.luckycoin",
+            "certificate_hash": "776894ec8fd29fbf7ab533217557a0e114c0e285"
+          }
+        },
+        {
+          "client_id": "355949604677-kr91v5pfs51qd7bi4647jcceq2kfh1g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lifeplaytrip.luckycoin",
+            "certificate_hash": "3cbe6b3f8754cd8826f071441f38157c849fd33c"
+          }
+        },
+        {
+          "client_id": "355949604677-j7r5nj9jknq19436psh7962mm1iqoq1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6XbtubUqBAXDix0c_G_eAbBKqa6O6W7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355949604677-j7r5nj9jknq19436psh7962mm1iqoq1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
